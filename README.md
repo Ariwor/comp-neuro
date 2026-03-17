@@ -3,7 +3,12 @@
 
 # Computational neuroscience fun
 
-Playing around with computational neuroscience
+Playing around with computational neuroscience. Examples:
+
+- Reproducing published work
+  - Brunel, N. (2000). _Journal of computational neuroscience_, 8(3), 183-208
+- Modeling temporal lobe epilepsy and surgical interventions using neural mass models
+  - Part of this project was presented at the 22<sup>nd</sup> Scientific Congress of Hellenic Medical Students & 10<sup>th</sup> International Forum of Hellenic Medical Students and Junior Doctors (Patras, Greece). The report was translated from the original Greek.
 
 ![comp_neuro_friends](https://github.com/Ariwor/comp-neuro/assets/63583995/4499aab8-e211-485e-880c-6af6cd67b088)
 
